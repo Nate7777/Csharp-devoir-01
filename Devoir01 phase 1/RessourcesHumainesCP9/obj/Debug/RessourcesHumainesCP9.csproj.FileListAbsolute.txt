@@ -1,0 +1,9 @@
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\bin\Debug\RessourcesHumainesCP9.exe.config
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\bin\Debug\RessourcesHumainesCP9.exe
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\bin\Debug\RessourcesHumainesCP9.pdb
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.csprojAssemblyReference.cache
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.ressourcesHumainesForm.resources
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.Properties.Resources.resources
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.csproj.GenerateResource.cache
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.exe
+C:\Users\nacom\Documents\College\2e annee\S2\PROG1341\ADO\Devoirs\RessourcesHumainesCP9\RessourcesHumainesCP9\obj\Debug\RessourcesHumainesCP9.pdb
